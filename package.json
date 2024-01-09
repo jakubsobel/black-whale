@@ -11,6 +11,8 @@
   "dependencies": {
     "@passageidentity/passage-elements": "^1.18.1",
     "@passageidentity/passage-node": "^2.7.0",
+    "@supabase/supabase-js": "^2.39.2",
+    "jsonwebtoken": "^9.0.2",
     "next": "14.0.4",
     "react": "^18",
     "react-dom": "^18"
